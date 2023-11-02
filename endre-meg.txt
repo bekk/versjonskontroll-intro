@@ -1,4 +1,4 @@
--- Versjonskontrollens Reise --
+-- Gits store verden --
 
 På universitets sti jeg trår,
 Versionskontroll jeg nå skal lære.
