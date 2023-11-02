@@ -1,5 +1,8 @@
 -- Dikt --
 På universitets sti jeg trår,
+-- Versjonskontrollens Reise --
+
+På universitetets sti jeg trår,
 Versionskontroll jeg nå skal lære.
 Commits, branches, og mergekommandoer,
 I kodeskogen, jeg finner mine spor.
