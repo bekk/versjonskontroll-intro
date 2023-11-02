@@ -1,4 +1,4 @@
--- Versjonskontrollens Reise --
+bedre tittel
 
 På universitets sti jeg trår,
 Versionskontroll jeg nå skal lære.
