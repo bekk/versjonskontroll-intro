@@ -1,0 +1,14 @@
+-- Versjonskontrollens Reise --
+
+På universitets sti jeg trår,
+Versionskontroll jeg nå skal lære.
+Commits, branches, og mergekommandoer,
+I kodeskogen, jeg finner mine spor.
+
+Git og GitHub, verden åpner seg,
+Historien i filene jeg forstår nå lett.
+Dagens dato, en ny start, en tid for vekst,
+Med versionskontroll, jeg tar den beste fest.
+
+Dato: 01.11.2023
+Universitet: UiT Nordens Arktiske Universitet
