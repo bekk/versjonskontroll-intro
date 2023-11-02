@@ -10,5 +10,5 @@ Historien i filene jeg forstår nå lett.
 Dagens dato, en ny start, en tid for vekst,
 Med versionskontroll, jeg tar den beste fest.
 
-Dato: <dato> 
-Universitet: <universitet>
+Dato: 02.11.23 
+Universitet: UiT
