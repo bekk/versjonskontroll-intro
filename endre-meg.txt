@@ -1,4 +1,4 @@
--- Versjonskontrollens Reise --
+-- Git Reise --
 
 På universitets sti jeg trår,
 Versionskontroll jeg nå skal lære.
