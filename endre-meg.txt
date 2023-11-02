@@ -1,4 +1,4 @@
--- Versjonskontrollens Reise --
+-- et læringseventyr --
 
 På universitets sti jeg trår,
 Versionskontroll jeg nå skal lære.
